@@ -1,0 +1,11 @@
+# Compiled output
+out/
+*.class
+
+# IntelliJ project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+Thumbs.db
